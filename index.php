@@ -208,7 +208,7 @@ include 'includes/header.php';
 
                             <div class="journal-txt">
                                 <h4>
-                                    <a href="blog-single.html">My Favourite Visual Studio Code 2019 Extension</a>
+                                    <a href="./blogDetails.php?id=4">My Favourite Visual Studio Code 2019 Extension</a>
                                 </h4>
                                 <p class="separator">
                                     Visual studio code, is arguably the best code editor to use at the present time....
@@ -218,11 +218,11 @@ include 'includes/header.php';
 
                     <div class="col-lg-4 col-md-6">
                         <div class="journal-info">
-                            <a href="sql.php"><img src="./images/reactJS.jpg" class="img-responsive" alt="img" /></a>
+                            <a href="./blogDetails.php?id=6"><img src="./images/reactJS.jpg" class="img-responsive" alt="img" /></a>
 
                             <div class="journal-txt">
                                 <h4>
-                                    <a href="blog-single.html">Why I choose React.JS for Front-End Development?</a>
+                                    <a href="./blogDetails.php?id=6">Why I choose React.JS for Front-End Development?</a>
                                 </h4>
                                 <p class="separator">
                                     When it comes to front-end development, we have observed that Angular is the default choice among business owners who wants to take their business online. </p>
@@ -236,7 +236,7 @@ include 'includes/header.php';
 
                             <div class="journal-txt">
                                 <h4>
-                                    <a href="blog-single.html">The Importance of QA Testing To Web And App Development?</a>
+                                    <a href="./blogDetails.php?id=7">The Importance of QA Testing To Web And App Development?</a>
                                 </h4>
                                 <p class="separator">
                                     Both MySQL and SQL Server, both are relational database management systems or RDBMS.

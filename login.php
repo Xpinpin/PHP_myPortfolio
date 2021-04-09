@@ -10,7 +10,7 @@ include 'includes/subHeader.php';
     <div class="main-content paddsection">
         <div class="container">
             <div class="card">
-                <img id="loginLogo" src="/myPortfolio/images/PersonalLogo.png">
+                <img id="loginLogo" src="./images/PersonalLogo.png">
                 <br>
                 <h2 style=" font-weight: bold;">LOGIN</h2>
                 <?php
