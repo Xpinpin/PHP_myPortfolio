@@ -50,7 +50,7 @@ include 'includes/header.php';
                 </p>
             </div>
             <div class="col-sm">
-                <img id="profilePic" src="/myPortfolio/images/1547906666817.JPG">
+                <img id="profilePic" src="./images/1547906666817.JPG">
             </div>
             <div class="col-sm">
                 <h4>Details</h4>
@@ -204,7 +204,7 @@ include 'includes/header.php';
                 <div class="row">
                     <div class="col-lg-4 col-md-6">
                         <div class="journal-info">
-                            <a href="/myPortfolio/blogDetails.php?id=4"><img src="/myPortfolio/images/prettierFormatter.png" class="img-responsive" alt="img" /></a>
+                            <a href="./blogDetails.php?id=4"><img src="./images/prettierFormatter.png" class="img-responsive" alt="img" /></a>
 
                             <div class="journal-txt">
                                 <h4>
@@ -218,7 +218,7 @@ include 'includes/header.php';
 
                     <div class="col-lg-4 col-md-6">
                         <div class="journal-info">
-                            <a href="/myPortfolio/blogDetails.php?id=6"><img src="/myPortfolio/images/reactJS.jpg" class="img-responsive" alt="img" /></a>
+                            <a href="sql.php"><img src="./images/reactJS.jpg" class="img-responsive" alt="img" /></a>
 
                             <div class="journal-txt">
                                 <h4>
@@ -232,7 +232,7 @@ include 'includes/header.php';
 
                     <div class="col-lg-4 col-md-6">
                         <div class="journal-info">
-                            <a href="/myPortfolio/blogDetails.php?id=7"><img src="/myPortfolio/images/quality_assurance_in_web_development_cover.jpg" class="img-responsive" alt="img" /></a>
+                            <a href="./blogDetails.php?id=7"><img src="./images/quality_assurance_in_web_development_cover.jpg" class="img-responsive" alt="img" /></a>
 
                             <div class="journal-txt">
                                 <h4>

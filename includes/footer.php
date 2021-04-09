@@ -16,7 +16,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                    <form action="/myPortfolio/includes/sendEmail.php" method="POST" role="form" class="php-email-form">
+                    <form action="./includes/sendEmail.php" method="POST" role="form" class="php-email-form">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="form-group">

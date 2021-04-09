@@ -15,7 +15,7 @@ include "includes/function.php"
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="/myPortfolio/images/PersonalLogo.png" rel="icon">
+    <link href="./images/PersonalLogo.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -168,7 +168,7 @@ include "includes/function.php"
         <div class="row">
             <div class="container">
                 <div class="logo">
-                    <a href="/myPortfolio/index.php#hero"><img src="/myPortfolio//images/WordLogo.png"></a>
+                    <a href="./index.php#hero"><img src="./images/WordLogo.png"></a>
                 </div>
 
                 <div class="responsive">
@@ -176,19 +176,19 @@ include "includes/function.php"
                 </div>
 
                 <ul class="nav-menu list-unstyled">
-                    <li><a href="/myPortfolio/index.php#aboutMe" class="smoothScroll">About <span class="sr-only">(current)</span></a></li>
-                    <li><a href="/myPortfolio/index.php#backgroundsPage" class="smoothScroll">Backgrounds</a></li>
-                    <li><a href="/myPortfolio/index.php#portfolio" class="smoothScroll">Projects</a></li>
-                    <li><a href="/myPortfolio/index.php#journal" class="smoothScroll">Blogs</a></li>
+                    <li><a href="./index.php#aboutMe" class="smoothScroll">About <span class="sr-only">(current)</span></a></li>
+                    <li><a href="./index.php#backgroundsPage" class="smoothScroll">Backgrounds</a></li>
+                    <li><a href="./index.php#portfolio" class="smoothScroll">Projects</a></li>
+                    <li><a href="./index.php#journal" class="smoothScroll">Blogs</a></li>
 
-                    <li><a href="/myPortfolio/index.php#contact" class="smoothScroll">Contact</a></li>
+                    <li><a href="./index.php#contact" class="smoothScroll">Contact</a></li>
 
                     <?php
                     if (isset($_SESSION['userId'])) {
 
-                        echo '<li><a href="/myPortfolio/logout.php" class="smoothScroll">Logout</a></li>';
+                        echo '<li><a href="./logout.php" class="smoothScroll">Logout</a></li>';
                     } else {
-                        echo   '<li><a href="/myPortfolio/login.php" class="smoothScroll">Login</a></li>';
+                        echo   '<li><a href="./login.php" class="smoothScroll">Login</a></li>';
                     }
 
                     ?>
